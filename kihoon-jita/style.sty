@@ -1,0 +1,42 @@
+\ProvidesPackage{style}
+
+\RequirePackage{tabularray}
+\RequirePackage{ragged2e}%使用ragged2e宏包中的\justifying以解决tabularray单元格换行的异常问题，注意不能直接使用\Ragged系列指令，因为其是为西文排版设计的，在对汉字进行处理时会把每一个汉字当作一个单词，从而增加不必要的间隙
+
+%需要手动在换行异常的单元格里使用\justifying
+
+\RequirePackage{luatexja-fontspec}
+\RequirePackage{luatexja-adjust}
+\ltjenableadjust[lineend = true, priority = true]
+\RequirePackage{luatexja-ruby}
+\ltjsetruby{rubysmash = true}
+%\RequirePackage[a4paper, vmarginratio = 3:2, hcentering, ignoreall]{geometry}
+
+\RequirePackage[match, haranoaji, deluxe]{luatexja-preset}
+\newjfontfamily\smseries{Harano Aji Mincho Medium}
+\newjfontfamily\sgseries{Harano Aji Gothic Medium}
+\setmainfont{Nimbus Roman No9 L}
+
+\RequirePackage{udline}
+\setulminsep{0ex}{0.6ex}
+\setulsep{0pt}
+
+\newcommand{\rmnum}[1]{\romannumeral #1}
+\newcommand{\Rmnum}[1]{\uppercase\expandafter{\romannumeral #1}}
+\newcommand{\kasenn}[1]{\unl{\textbf{#1}}}
+
+\setlength{\floatsep}{0pt}
+\setlength{\textfloatsep}{0pt}
+\setlength{\intextsep}{0pt}
+\setlength{\parskip}{0pt}
+
+\DeclareTblrTemplate{head}{default}{}
+\DeclareTblrTemplate{foot}{default}{}
+\DeclareTblrTemplate{caption}{default}{}
+
+\ModifyHeading{section}{
+    label_format = {},
+    font = \Large\smseries,
+    before_space = 1\zw,
+    after_label_space= 0pt, 
+}
