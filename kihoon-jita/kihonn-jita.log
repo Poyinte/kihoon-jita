@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.26)  30 NOV 2025 01:28
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2025.8.26)  9 DEC 2025 18:19
  restricted system commands enabled.
 **d:/Library/日本語/日本語基本動詞用法辞典/kihoon-jita/kihonn-jita
 (d:/Library/日本語/日本語基本動詞用法辞典/kihoon-jita/kihonn-jita.tex
@@ -1239,15 +1239,15 @@ LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n-jidori' w
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n-jidori' will be
 (Font)              scaled to size 10.0pt on input line 55.
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 55.
+LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 55.
+LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 55.
 LaTeX Font Info:    Font shape `JT3/HaranoAjiGothic-Regular.otf(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 55.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiGothic-Regular.otf(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 55.
-LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 55.
-LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 55.
 > Step: build the whole table.
 
 
@@ -1549,16 +1549,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15609 strings out of 475506
- 597274,5906145 words of node,token memory allocated
+ 15647 strings out of 475506
+ 597267,3417909 words of node,token memory allocated
  1020 words of node memory still in use:
    8 hlist, 1 vlist, 5 rule, 2 glue, 3 kern, 2 glyph, 186 attribute, 64 glue_spec, 25 attribute_list, 1 write, 10 user_defined nodes
-   avail lists: 1:40,2:137599,3:1040,4:8848,5:1220,6:591,7:14370,8:1,9:12805,10:5
- 38317 multiletter control sequences out of 65536+600000
+   avail lists: 1:43,2:137576,3:958,4:8759,5:1238,6:591,7:14353,8:3,9:12719,10:5
+ 38355 multiletter control sequences out of 65536+600000
  96 fonts using 152376663 bytes
- 125i,12n,141p,1905b,5071s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,12n,141p,1905b,5203s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2025/texmf-dist/fonts/opentype/public/haranoaji-extra/HaranoAjiMincho-Medium.otf><d:/texlive/2025/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Regular.otf><d:/texlive/2025/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><d:/texlive/2025/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf><d:/texlive/2025/texmf-dist/fonts/type1/public/mathabx-type1/matha12.pfb>
-Output written on kihonn-jita.pdf (12 pages, 183794 bytes).
+Output written on kihonn-jita.pdf (12 pages, 184154 bytes).
 
 PDF statistics: 75 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
