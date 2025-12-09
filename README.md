@@ -1,5 +1,5 @@
 # kihonn-jita
-[![Download PDF](https://img.shields.io/badge/Download-PDF-E5322D?style=flat)](https://github.com/Poyinte/kihoon-jita/raw/main/kihoon-jita/kihonn-jita.pdf) [![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?logo=youtube&style=flat)](https://youtu.be/HCSIOMSl_1I) 
+[![Download PDF](https://img.shields.io/badge/Download-PDF-E5322D?style=flat)](https://github.com/Poyinte/kihoon-jita/raw/main/kihoon-jita/kihonn-jita.pdf) [![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?logo=youtube&style=flat)](https://youtu.be/yOEAx9c38tw) 
 [![Watch on Bilibili](https://img.shields.io/badge/Watch%20on%20Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat)](https://www.bilibili.com/video/BV1LdSeB2Erf)
 
 > 本参考資料は、『日本語基本動詞用法辞典』[^1] に収録されている基本動詞を基礎とし、『国語における自動詞と他動詞』[^2] および『日漢大辞典』[^3] の関連内容を参照して整理・まとめたものである。
